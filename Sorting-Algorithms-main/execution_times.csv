@@ -1,0 +1,7 @@
+Size,BubbleSort(ms),SelectionSort(ms),InsertionSort(ms),QuickSort(ms),MergeSort(ms),HeapSort(ms),BSTreeSort(ms)
+100,0,0,0,0,0,0,0
+1000,4,2,2,0,1,0,0
+10000,130,39,24,1,1,2
+100000,-1,-1,-1,7,19,14,28
+200000,-1,-1,-1,14,46,19,54
+1000000,-1,-1,-1,76,160,115,494
